@@ -27,6 +27,7 @@ The results of the test set were:
 -----------|---------|---------|
 Uninfected|17%|34%|
 Parasitized|45%|4%|
+
 The model tends to classify uninfected cells as infected, meaning that there is a higher false positive than false negatives. In other words, 1 out of 4 healthy cells get categorised as parastized, whereas 1 in 10 of parasitised are categorised as healthy. So out of 400 cells under a microscrope
 - 170 would test negative (150 correct and 20 false negatives)
 - 230 would test positive (180 correct and 50 false positive)
