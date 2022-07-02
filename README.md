@@ -33,7 +33,7 @@ The model tends to classify uninfected cells as infected, meaning that there is 
 - 230 would test positive (180 correct and 50 false positive)
 
 ### Recommendation
-The labour cost of laboratory staff per hour is USD 6.80, and the average cost of diagnosis by microscopy takes 1 Hour to complete  [(source)]([https://doi.org/10.1186/s40249-020-00745-9]). Our predictions can help speed up the time by hiding the cells that are not positive, so the microscopists can focus their attention to those that have been assigned the label.  As no meta-data was provided with patient information, we can't know the impact at  patient level classification.
+The labour cost of laboratory staff per hour is USD 6.80, and the average cost of diagnosis by microscopy takes 1 Hour to complete  ([source]([https://doi.org/10.1186/s40249-020-00745-9])). Our predictions can help speed up the time by hiding the cells that are not positive, so the microscopists can focus their attention to those that have been assigned the label.  As no meta-data was provided with patient information, we can't know the impact at  patient level classification.
 
 ### Risks and Assumptions
 
